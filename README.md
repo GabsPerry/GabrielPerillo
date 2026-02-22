@@ -45,6 +45,15 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="GitLab"
+    title="GitLab" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" 
+/>
+
 <br/>
 <br/>
 
@@ -69,6 +78,15 @@
           alt="LinkedIn" 
           title="Acesse meu LinkedIn" 
           src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      />
+  </a>
+
+  <!-- GitLab -->
+  <a href="https://gitlab.com/GabrielPerillo">
+      <img 
+          alt="GitLab" 
+          title="Acesse meu GitLab" 
+          src="https://custom-icon-badges.demolab.com/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"
       />
   </a>
 
