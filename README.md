@@ -1,8 +1,8 @@
-# 🧙🏼‍♂️ Gabriel Perillo
+# 🧙🏼‍♂️ About me
 
 **`Data Engineer`**
 
-4+ years of experience working in large-scale data environments. I design and build data ingestion, transformation, and delivery pipelines using modern data platforms and cloud-native architectures. Strong expertise in SQL, Python, Spark and data modeling, with experience in governance, reliability, optimization, and supporting analytics teams with high-impact, production-grade pipelines.
+Data engineer with 4+ years of experience working in large-scale data environments. I design and build data ingestion, transformation, and delivery pipelines using modern data platforms and cloud-native architectures. Strong expertise in SQL, Python, Spark and data modeling, with experience in governance, reliability, optimization, and supporting analytics teams with high-impact, production-grade pipelines.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/gabriel-perillo/">
