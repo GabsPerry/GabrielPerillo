@@ -16,7 +16,7 @@ Data Engineer with 4 years of experience working in large-scale data environment
 
 ---
 
-### 🤖 **Skills**
+### 🤖 **Skills (Data Engineering)**
 
 <img 
     align="left" 
@@ -27,14 +27,14 @@ Data Engineer with 4 years of experience working in large-scale data environment
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<!-- SQL - custom icon -->
-<img 
+
+<img
     align="left" 
     alt="SQL"
     title="SQL" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://i.imgur.com/8uQxZsT.png" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
 
 <img 
@@ -44,16 +44,6 @@ Data Engineer with 4 years of experience working in large-scale data environment
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" 
-/>
-
-<!-- Databricks (stable icon) -->
-<img 
-    align="left" 
-    alt="Databricks"
-    title="Databricks" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" 
 />
 
 <img 
