@@ -143,5 +143,6 @@ Currently learning PySpark, Databricks and Airflow.
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabsPerry&layout=compact&theme=tokyonight&locale=pt-br"
     width="390"
+    height="165"
   />
 </p>
